@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+openai
+langchain
+faiss-cpu
+sqlalchemy
+asyncpg
+psycopg2-binary
+redis
+celery
+gitpython
+pytest
+black
+flake8
+docker
